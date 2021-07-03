@@ -8,6 +8,7 @@ import Dictionary from './Dictionary';
       <div className="container">
       <header className="App-header"></header>
       <main>
+        <h1> My Dictionary App </h1>
         <Dictionary />
       </main>
       <footer className="text-center">
