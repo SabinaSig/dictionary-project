@@ -1,7 +1,7 @@
 .Dictionary section {
   background: lavender;
   padding: 30px;
-  border-radius: 8px;
+  border-radius: 6px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   margin: 20px 0;
 }
@@ -10,11 +10,17 @@
   width: 100%;
   padding: 6px 4px;
   border: 1px solid #ddd;
-  border-radius: 8px;
+  border-radius: 6px;
   color: #333;
 }
 
 .Dictionary .hint {
   font-size: 11px;
   margin-top: 5px;
+}
+
+.Dictionary h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
