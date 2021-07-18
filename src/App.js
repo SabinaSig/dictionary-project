@@ -9,7 +9,7 @@ import Dictionary from './Dictionary';
       <header className="App-header"></header>
       <main>
         <h1> My Dictionary App </h1>
-        <Dictionary defaultKeyword="sunset" />
+        <Dictionary defaultKeyword="Word" />
       </main>
       <footer className="text-center">
         Coded by Sabina Sigmundová
