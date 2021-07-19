@@ -1,6 +1,7 @@
 .App {
   margin: 0 auto;
   max-width: 960px;
+  background-image: url("https://images.pexels.com/photos/8892/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 }
 
 h1 {
