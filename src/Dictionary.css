@@ -1,9 +1,11 @@
 .Dictionary section {
-  background: lavender;
+  background: rgba(255, 255, 255, 0.959);
   padding: 30px;
   border-radius: 6px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   margin: 20px 0;
+  border: 0.2rem solid #fff;
+  box-shadow: 0 0 0.2rem #fff, 0 0 0.2rem #fff;
 }
 
 .Dictionary input {

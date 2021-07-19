@@ -8,11 +8,12 @@ import Dictionary from './Dictionary';
       <div className="container">
       <header className="App-header"></header>
       <main>
-        <h1> My Dictionary App </h1>
-        <Dictionary defaultKeyword="Word" />
+        <h1 className="name"> My Dictionary App </h1>
+        <Dictionary defaultKeyword="Dictionary" />
       </main>
       <footer className="text-center">
-        Coded by Sabina Sigmundová
+        <a href="https://github.com/SabinaSig/dictionary-project" target="_blank" rel="noreferrer"> Open-source </a> code by 
+        <a href="https://www.linkedin.com/in/sabina-sigmundov%C3%A1-431324194/?originalSubdomain=dk" target="_blank" rel="noreferrer"> Sabina Sigmundová </a> 
       </footer>
       </div>
     </div>
